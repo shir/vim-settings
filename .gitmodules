@@ -7,3 +7,6 @@
 [submodule "bundle/vividchalk"]
 	path = bundle/vividchalk
 	url = http://github.com/tpope/vim-vividchalk.git
+[submodule "autoload"]
+	path = autoload
+	url = git://github.com/paulnicholson/vim-pathogen.git
