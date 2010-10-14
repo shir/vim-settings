@@ -12,6 +12,7 @@ Based on {pathogen}[http://www.vim.org/scripts/script.php?script_id=2332] plugin
 * {vim-rails}[http://github.com/tpope/vim-rails]
 * {nerdtree}[http://github.com/scrooloose/nerdtree]
 * {bufexplorer}[http://www.vim.org/scripts/script.php?script_id=42]
+* {vim-cucumber}[http://github.com/tpope/vim-cucumber]
 
 == Colorschemes
 * {rubyblue}[http://github.com/jlong/rubyblue] - for GUI
