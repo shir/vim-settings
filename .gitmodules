@@ -10,3 +10,6 @@
 [submodule "autoload"]
 	path = autoload
 	url = git://github.com/paulnicholson/vim-pathogen.git
+[submodule "bundle/cucumber"]
+	path = bundle/cucumber
+	url = http://github.com/tpope/vim-cucumber.git
