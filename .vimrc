@@ -113,6 +113,13 @@ menu Encoding.utf-8 :e ++enc=utf8 <CR>
 " С-q - выход из Vim 
 map <C-Q> <Esc>:qa<cr>
 
+"display tabs and trailing spaces
+set listchars=tab:>.,trail:·,extends:>,precedes:<
+set list
+
+" Enable syntatic plugin
+let g:syntastic_enable_signs=1
+
 " отступы в rails
 autocmd User Rails set sw=2 sts=2 expandtab
 filetype plugin indent on
@@ -123,10 +130,6 @@ autocmd BufNewFile,BufRead COMMIT_EDITMSG set filetype=gitcommit
 map <silent> <Leader>p :NERDTreeToggle<CR>
 
 vmap # :s/^/#/g<CR>
-
-"display tabs and trailing spaces
-set listchars=tab:>.,trail:·,extends:>,precedes:<
-set list
 
 "folding settings
 set foldmethod=syntax   "fold based on indent
