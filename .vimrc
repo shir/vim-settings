@@ -120,6 +120,11 @@ set list
 " Enable syntatic plugin
 let g:syntastic_enable_signs=1
 
+" переназначаем основную клаившу для zenconding
+let g:user_zen_leader_key = '\y'
+" change indentation to 2 spaces
+let g:user_zen_settings = { 'indentation' : '  ' }
+
 " отступы в rails
 autocmd User Rails set sw=2 sts=2 expandtab
 filetype plugin indent on
