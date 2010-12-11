@@ -15,6 +15,7 @@ Based on {pathogen}[http://www.vim.org/scripts/script.php?script_id=2332] plugin
 * {vim-cucumber}[http://github.com/tpope/vim-cucumber]
 * {syntastic}[http://github.com/scrooloose/syntastic]
 * {zencoding-vim}[http://github.com/mattn/zencoding-vim]
+* {tcomment_vim}[https://github.com/tomtom/tcomment_vim.git]
 
 == Colorschemes
 * {rubyblue}[http://github.com/jlong/rubyblue] - for GUI
