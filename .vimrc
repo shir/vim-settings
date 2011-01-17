@@ -136,6 +136,9 @@ map <silent> <Leader>p :NERDTreeToggle<CR>
 
 vmap # :s/^/#/g<CR>
 
+" Map \a= to Tabularize selection
+map <silent> <Leader>a= :Tabularize /=<CR>
+
 "folding settings
 set foldmethod=syntax   "fold based on indent
 set foldnestmax=5       "deepest fold is 3 levels

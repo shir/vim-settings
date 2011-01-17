@@ -28,6 +28,9 @@ Plugins
   HTML fast typing. Type `div.some>ul.list` and than press `\y,`.
 * [tcomment_vim](http://github.com/tomtom/tcomment_vim)<br />
   Multiline code comment/uncomment. Type `gc` to toggle comments.
+* [tabular](http://github.com/godlygeek/tabular)<br />
+  Multicolum align. Use command `Tabularize /<regex>`.
+  For example `Tabularize /=`. Also you can use `\a=` as keymap for `:Tabularize /=`
 
 Colorschemes
 ------------
