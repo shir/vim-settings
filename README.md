@@ -26,7 +26,7 @@ Plugins
   Check file syntax while saving.
 * [zencoding-vim](http://github.com/mattn/zencoding-vim)<br />
   HTML fast typing. Type `div.some>ul.list` and than press `\y,`.
-* [tcomment_vim](https://github.com/tomtom/tcomment_vim)<br />
+* [tcomment_vim](http://github.com/tomtom/tcomment_vim)<br />
   Multiline code comment/uncomment. Type `gc` to toggle comments.
 
 Colorschemes
