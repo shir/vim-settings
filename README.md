@@ -2,10 +2,10 @@ Installation
 ============
     cd ~/
     git clone git://github.com/shir/vim-settings.git .vim
-    cd .vim/
-    git submodule update --init
     ln -s .vim/.vimrc
     ln -s .vim/.gvimrc
+    cd .vim/
+    git submodule update --init
 
 Description
 ===========
