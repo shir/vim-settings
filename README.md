@@ -31,6 +31,8 @@ Plugins
 * [tabular](http://github.com/godlygeek/tabular)<br />
   Multicolum align. Use command `Tabularize /<regex>`.
   For example `Tabularize /=`. Also you can use `\a=` as keymap for `:Tabularize /=`
+* [vim-fugitive](https://github.com/tpope/vim-fugitive)<br />
+  Make work with git from vim.
 
 Colorschemes
 ------------
