@@ -138,6 +138,7 @@ vmap # :s/^/#/g<CR>
 
 " Map \a= to Tabularize selection
 map <silent> <Leader>a= :Tabularize /=<CR>
+map <silent> <Leader>a{ :Tabularize /{<CR>
 
 "folding settings
 set foldmethod=syntax   "fold based on indent
