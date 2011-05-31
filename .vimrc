@@ -140,6 +140,9 @@ vmap # :s/^/#/g<CR>
 map <silent> <Leader>a= :Tabularize /=<CR>
 map <silent> <Leader>a{ :Tabularize /{<CR>
 
+" Map \ts to Remove trailng spaces
+map <silent> <Leader>ts :%s/\s*$//g<CR>
+
 "folding settings
 set foldmethod=syntax   "fold based on indent
 set foldnestmax=5       "deepest fold is 3 levels
