@@ -1,5 +1,6 @@
 set guifont=Monaco:h13
-colorscheme rubyblue
+set background=light
+colorscheme solarized
 set lines=44
 set columns=114
 "set transparency=3
