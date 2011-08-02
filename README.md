@@ -36,6 +36,7 @@ Plugins
 
 Colorschemes
 ------------
-* [rubyblue](http://github.com/jlong/rubyblue) - for GUI
-* [vividchalk](http://github.com/tpope/vim-vividchalk) - for text mode
+* [solarized](http://github.com/altercation/vim-colors-solarized) - Light variant is default for GUI
+* [rubyblue](http://github.com/jlong/rubyblue)
+* [vividchalk](http://github.com/tpope/vim-vividchalk) - Default for text mode
 
